@@ -1,0 +1,15 @@
+C:\Users\Андрей\Desktop\Online_Seminar\Новая группа\C#\Lesson 3\Task1\obj\Debug\net8.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Desktop\Online_Seminar\Новая группа\C#\Lesson 3\Task1\obj\Debug\net8.0\Task1.AssemblyInfoInputs.cache
+C:\Users\Андрей\Desktop\Online_Seminar\Новая группа\C#\Lesson 3\Task1\obj\Debug\net8.0\Task1.AssemblyInfo.cs
+C:\Users\Андрей\Desktop\Online_Seminar\Новая группа\C#\Lesson 3\Task1\obj\Debug\net8.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\Online_Seminar\Новая группа\C#\Lesson 3\Task1\obj\Debug\net8.0\Task1.sourcelink.json
+C:\Users\Андрей\Desktop\Online_Seminar\Новая группа\C#\Lesson 3\Task1\bin\Debug\net8.0\Task1.exe
+C:\Users\Андрей\Desktop\Online_Seminar\Новая группа\C#\Lesson 3\Task1\bin\Debug\net8.0\Task1.deps.json
+C:\Users\Андрей\Desktop\Online_Seminar\Новая группа\C#\Lesson 3\Task1\bin\Debug\net8.0\Task1.runtimeconfig.json
+C:\Users\Андрей\Desktop\Online_Seminar\Новая группа\C#\Lesson 3\Task1\bin\Debug\net8.0\Task1.dll
+C:\Users\Андрей\Desktop\Online_Seminar\Новая группа\C#\Lesson 3\Task1\bin\Debug\net8.0\Task1.pdb
+C:\Users\Андрей\Desktop\Online_Seminar\Новая группа\C#\Lesson 3\Task1\obj\Debug\net8.0\Task1.dll
+C:\Users\Андрей\Desktop\Online_Seminar\Новая группа\C#\Lesson 3\Task1\obj\Debug\net8.0\refint\Task1.dll
+C:\Users\Андрей\Desktop\Online_Seminar\Новая группа\C#\Lesson 3\Task1\obj\Debug\net8.0\Task1.pdb
+C:\Users\Андрей\Desktop\Online_Seminar\Новая группа\C#\Lesson 3\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
+C:\Users\Андрей\Desktop\Online_Seminar\Новая группа\C#\Lesson 3\Task1\obj\Debug\net8.0\ref\Task1.dll
