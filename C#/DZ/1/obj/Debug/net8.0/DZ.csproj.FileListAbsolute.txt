@@ -1,0 +1,15 @@
+C:\Users\Андрей\Desktop\Online_Seminar\Новая группа\C#\DZ\bin\Debug\net8.0\DZ.exe
+C:\Users\Андрей\Desktop\Online_Seminar\Новая группа\C#\DZ\bin\Debug\net8.0\DZ.deps.json
+C:\Users\Андрей\Desktop\Online_Seminar\Новая группа\C#\DZ\bin\Debug\net8.0\DZ.runtimeconfig.json
+C:\Users\Андрей\Desktop\Online_Seminar\Новая группа\C#\DZ\bin\Debug\net8.0\DZ.dll
+C:\Users\Андрей\Desktop\Online_Seminar\Новая группа\C#\DZ\bin\Debug\net8.0\DZ.pdb
+C:\Users\Андрей\Desktop\Online_Seminar\Новая группа\C#\DZ\obj\Debug\net8.0\DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Desktop\Online_Seminar\Новая группа\C#\DZ\obj\Debug\net8.0\DZ.AssemblyInfoInputs.cache
+C:\Users\Андрей\Desktop\Online_Seminar\Новая группа\C#\DZ\obj\Debug\net8.0\DZ.AssemblyInfo.cs
+C:\Users\Андрей\Desktop\Online_Seminar\Новая группа\C#\DZ\obj\Debug\net8.0\DZ.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\Online_Seminar\Новая группа\C#\DZ\obj\Debug\net8.0\DZ.sourcelink.json
+C:\Users\Андрей\Desktop\Online_Seminar\Новая группа\C#\DZ\obj\Debug\net8.0\DZ.dll
+C:\Users\Андрей\Desktop\Online_Seminar\Новая группа\C#\DZ\obj\Debug\net8.0\refint\DZ.dll
+C:\Users\Андрей\Desktop\Online_Seminar\Новая группа\C#\DZ\obj\Debug\net8.0\DZ.pdb
+C:\Users\Андрей\Desktop\Online_Seminar\Новая группа\C#\DZ\obj\Debug\net8.0\DZ.genruntimeconfig.cache
+C:\Users\Андрей\Desktop\Online_Seminar\Новая группа\C#\DZ\obj\Debug\net8.0\ref\DZ.dll
